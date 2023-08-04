@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api.Canguros.props" />
+</Project>

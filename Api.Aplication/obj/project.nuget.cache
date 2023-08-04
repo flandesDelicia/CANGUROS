@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGXudGPgy/KXjqVL3IPfbTtZlVeJ+U53pJVaLVpYsjPA9QENrW3rXpq8gQLMjGMW8bHDDYM1w+8BIpIO0Z4VlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fland\\source\\flandesDelicia\\CANGUROS\\Api.Aplication\\Api.Aplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fland\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\fland\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
+    "C:\\Users\\fland\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\fland\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\fland\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
