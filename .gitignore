@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs/*
+/TestProject1/obj/*
+/.vs*
+/.vs/Flandes/v17/.suo
+/.vs/slnx.sqlite
+/Api.Aplication/obj/Debug/net7.0/Api.Aplication.assets.cache
+/Api.Aplication/obj/Debug/net7.0/Api.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/Canguros/obj/Debug/net7.0/Api.Canguros.assets.cache
+/Canguros/obj/Debug/net7.0/Api.Canguros.csproj.AssemblyReference.cache
+/Canguros/obj/Debug/net7.0/Api.Canguros.GeneratedMSBuildEditorConfig.editorconfig
+/TestProject1/bin/Debug/net7.0/CoverletSourceRootsMapping
+/TestProject1/obj/Debug/net7.0/Api.Test.assets.cache
+/TestProject1/obj/Debug/net7.0/Api.Test.csproj.AssemblyReference.cache
+/TestProject1/obj/Debug/net7.0/Api.Test.GeneratedMSBuildEditorConfig.editorconfig
+/.vs/Flandes/v17/.suo

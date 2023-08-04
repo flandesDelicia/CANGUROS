@@ -16,8 +16,12 @@ namespace Api.Aplication.Queries
             var resp = "NO HAY INTERSECCION";
 
             if (request.V1 != request.V2)
-                resp = $"EL PUNTO DE ENCUENTRO ESTA EN LA UBICACION {((request.V1 * request.X2) - (request.X1 * request.V2))}";
-
+            {
+                var salto = ((request.X1 - request.X2) / (request.V2 - request.V1));
+                var punto = (salto * request.V1) + request.X1;
+                if (salto > 0)
+                    resp = $"EL PUNTO DE ENCUENTRO ES {punto} Y SE PRODUCE EN EL SALTO {salto}";
+            }
             return await Task.Run(() => resp, cancellationToken);
 
         }
